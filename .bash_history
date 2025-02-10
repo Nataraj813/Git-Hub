@@ -153,3 +153,37 @@ git push -u origin master
 git pull
 cat file2
 git pull
+ls
+git status
+vi file.txt
+git add file.txt
+git commit -m"file.txt"
+git status
+cat file.txt
+git push -u origin master
+git push -u origin master --force
+git remote -v
+git merge
+vi file.txt
+git merge file.txt
+vi file.txt
+git pull
+vi file.txt
+git pull file.txt
+vi file.txt
+git merge
+git status
+git add.
+git add .
+git commit -m "file.txt"
+git merge
+vi file.txt
+cat file.txt
+git status
+git add .
+git commit -m "file.txt"
+git push -u origin
+git push -u originmaster --force
+git merge
+git pull
+git push -u originmaster --force
